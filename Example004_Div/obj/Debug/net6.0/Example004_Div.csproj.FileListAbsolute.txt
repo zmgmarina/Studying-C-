@@ -1,0 +1,16 @@
+C:\Users\UpGrade\OneDrive\Рабочий стол\Studying-C-\Example004_Div\bin\Debug\net6.0\Example004_Div.exe
+C:\Users\UpGrade\OneDrive\Рабочий стол\Studying-C-\Example004_Div\bin\Debug\net6.0\Example004_Div.deps.json
+C:\Users\UpGrade\OneDrive\Рабочий стол\Studying-C-\Example004_Div\bin\Debug\net6.0\Example004_Div.runtimeconfig.json
+C:\Users\UpGrade\OneDrive\Рабочий стол\Studying-C-\Example004_Div\bin\Debug\net6.0\Example004_Div.dll
+C:\Users\UpGrade\OneDrive\Рабочий стол\Studying-C-\Example004_Div\bin\Debug\net6.0\ref\Example004_Div.dll
+C:\Users\UpGrade\OneDrive\Рабочий стол\Studying-C-\Example004_Div\bin\Debug\net6.0\Example004_Div.pdb
+C:\Users\UpGrade\OneDrive\Рабочий стол\Studying-C-\Example004_Div\obj\Debug\net6.0\Example004_Div.GlobalUsings.g.cs
+C:\Users\UpGrade\OneDrive\Рабочий стол\Studying-C-\Example004_Div\obj\Debug\net6.0\Example004_Div.csproj.AssemblyReference.cache
+C:\Users\UpGrade\OneDrive\Рабочий стол\Studying-C-\Example004_Div\obj\Debug\net6.0\Example004_Div.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UpGrade\OneDrive\Рабочий стол\Studying-C-\Example004_Div\obj\Debug\net6.0\Example004_Div.AssemblyInfoInputs.cache
+C:\Users\UpGrade\OneDrive\Рабочий стол\Studying-C-\Example004_Div\obj\Debug\net6.0\Example004_Div.AssemblyInfo.cs
+C:\Users\UpGrade\OneDrive\Рабочий стол\Studying-C-\Example004_Div\obj\Debug\net6.0\Example004_Div.csproj.CoreCompileInputs.cache
+C:\Users\UpGrade\OneDrive\Рабочий стол\Studying-C-\Example004_Div\obj\Debug\net6.0\Example004_Div.dll
+C:\Users\UpGrade\OneDrive\Рабочий стол\Studying-C-\Example004_Div\obj\Debug\net6.0\ref\Example004_Div.dll
+C:\Users\UpGrade\OneDrive\Рабочий стол\Studying-C-\Example004_Div\obj\Debug\net6.0\Example004_Div.pdb
+C:\Users\UpGrade\OneDrive\Рабочий стол\Studying-C-\Example004_Div\obj\Debug\net6.0\Example004_Div.genruntimeconfig.cache
