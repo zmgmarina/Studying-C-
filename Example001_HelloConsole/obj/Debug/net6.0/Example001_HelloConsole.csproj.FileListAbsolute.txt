@@ -1,0 +1,16 @@
+C:\Users\UpGrade\OneDrive\Рабочий стол\Studying-C-\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.exe
+C:\Users\UpGrade\OneDrive\Рабочий стол\Studying-C-\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.deps.json
+C:\Users\UpGrade\OneDrive\Рабочий стол\Studying-C-\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.runtimeconfig.json
+C:\Users\UpGrade\OneDrive\Рабочий стол\Studying-C-\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.dll
+C:\Users\UpGrade\OneDrive\Рабочий стол\Studying-C-\Example001_HelloConsole\bin\Debug\net6.0\ref\Example001_HelloConsole.dll
+C:\Users\UpGrade\OneDrive\Рабочий стол\Studying-C-\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.pdb
+C:\Users\UpGrade\OneDrive\Рабочий стол\Studying-C-\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.GlobalUsings.g.cs
+C:\Users\UpGrade\OneDrive\Рабочий стол\Studying-C-\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\UpGrade\OneDrive\Рабочий стол\Studying-C-\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UpGrade\OneDrive\Рабочий стол\Studying-C-\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\UpGrade\OneDrive\Рабочий стол\Studying-C-\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.AssemblyInfo.cs
+C:\Users\UpGrade\OneDrive\Рабочий стол\Studying-C-\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\UpGrade\OneDrive\Рабочий стол\Studying-C-\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.dll
+C:\Users\UpGrade\OneDrive\Рабочий стол\Studying-C-\Example001_HelloConsole\obj\Debug\net6.0\ref\Example001_HelloConsole.dll
+C:\Users\UpGrade\OneDrive\Рабочий стол\Studying-C-\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.pdb
+C:\Users\UpGrade\OneDrive\Рабочий стол\Studying-C-\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.genruntimeconfig.cache
